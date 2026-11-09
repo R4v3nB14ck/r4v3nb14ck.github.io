@@ -1,7 +1,7 @@
 <?php
 /* =====================================================
    R4v3nB14ck · Portfolio
-   Edit ONLY this section to change links, texts and ads.
+   Edit ONLY this section to change links, texts and ads. index
    ===================================================== */
 $site = [
   'name'  => 'R4v3nB14ck',
